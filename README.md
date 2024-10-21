@@ -2,7 +2,7 @@
 
 ```cpp
   #define STATUS "42 student 🧑‍💻 && freelancer 🧑‍🏭"
-  #define WORK "Completing 42's common core 📚 && open to internships/collaborations 👨‍💻"
+  #define WORK "Completing 42's common core 📚 && open to collaborations 👨‍💻"
 ```
 
 ###
