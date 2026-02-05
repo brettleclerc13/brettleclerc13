@@ -3,8 +3,7 @@
 
 ```cpp
 #define FIRST_NAME "Brett"
-#define STATUS "Intern at Filiz 🧑‍🏭 && 42 student 🧑‍💻"
-#define LATEST_WORK "alloCVC's [web app](https://allocvc.fr/) 👨‍💻"
+#define STATUS "Full stack developer at Filiz 🧑‍🏭"
 #define EDUCATION "42's advance curriculum – web && app development 📚"
 ```
 
